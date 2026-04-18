@@ -12,7 +12,7 @@ Heavily inspired by [Homebrew](https://github.com/Homebrew/brew) and
 - Nix: [nixos.org/download/#nix-install-macos](https://nixos.org/download/#nix-install-macos)
 - Xcode: [./nix/overlays/xcode.md#how-to-store-xcode-and-prevent-to-be-garbage-collected](./nix/overlays/xcode.md#how-to-store-xcode-and-prevent-to-be-garbage-collected)
 
-## Build
+## Build 
 
 ```shell
 $ echo \"v0.0.1\" > nix/utils/default/version.nix
