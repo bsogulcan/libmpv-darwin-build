@@ -7,7 +7,7 @@ with commercial use for playback, and GPL use for encoding.
 Heavily inspired by [Homebrew](https://github.com/Homebrew/brew) and
 [IINA](https://github.com/iina/iina).
 
-## Setup 
+## Setup
 
 - Nix: [nixos.org/download/#nix-install-macos](https://nixos.org/download/#nix-install-macos)
 - Xcode: [./nix/overlays/xcode.md#how-to-store-xcode-and-prevent-to-be-garbage-collected](./nix/overlays/xcode.md#how-to-store-xcode-and-prevent-to-be-garbage-collected)
